@@ -1,0 +1,518 @@
+
+body{
+margin: 0px;
+padding: 0px;
+}
+
+.restaurant-background {
+  background-image: url(./ppic.gif);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center; 
+   height: 100vh;      
+   color: white;
+   padding: 20px;
+}
+
+div >p{
+font-size: 200px;
+color: gray;
+padding-top: 0px;
+}
+
+p{
+margin: 0px;
+padding: 0px;
+}
+
+a:hover{
+color: brown;
+}
+
+#first{
+position: fixed;
+}
+
+#main{
+padding-top: 900px;
+color: white;
+}
+
+h1{
+text-align: center;
+font-size: 250px;
+}
+
+.me{
+padding: 0px;
+width: 5400px;
+height: 60vh;
+background-color: black;
+}
+
+.me .one{
+/* padding-top: 40px; */
+height: 1500px;
+width: 2500px;
+background-color:black;
+
+/* padding-left: 280px; */
+display: inline-block;
+}
+
+.me .two{
+  display: inline-block;
+width: 2000px;
+height:  1500px;
+background-color:black;
+padding-top: 40px;
+}
+ 
+.me .one ,h1{
+padding-top: 0px;
+font-size: 90px;
+text-align: center;
+line-height: 110px;
+padding-left: 120px;
+padding-right: 80px;
+text-align: center;
+color: white;
+}
+
+.content{
+padding-right: 290px;
+height: 100vh;
+padding-top: 380px;
+/* 
+width: 100vw; */
+width: 5300px;
+background-color: black;
+display: flex;
+flex-direction: row-reverse;
+}
+
+.child{
+position: absolute;
+  height: 1900px;
+width: 1500px;
+background-color: white;
+}
+
+.parent{
+/* flex-direction: row; */
+height: 1800px;
+width: 100vw;
+background-color: black;
+display: flex;
+padding-left: 80px;
+padding-top: 140px;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+
+.mom{
+  position: relative;
+height: 1500px;
+width: 45%;
+/* width: 3300px; */
+background-color: black;
+}
+
+.dad{
+  height: 1500px;
+  width: 1800px;
+  background-color: pink;
+  }
+  
+
+.ami{
+  padding: 0px;
+margin: 0px;
+height:100vh;
+width: 100vw;
+background-color: yellow;
+/* display: inline-block; */
+}
+
+.me{
+/* display: flex; */
+background-image: url(./images.avif);
+/* flex-direction: row-reverse; */
+background-repeat: no-repeat;
+background-size: cover; 
+background-position: center; 
+ height: 100vh; 
+/* display: inline-block; */
+padding: 20px;
+}
+
+.first{
+  height: 1500px;
+  width: 1380px;
+  background-color: white;
+  border: 20px white groove;
+  border-radius: 120px;
+  padding: 0px;  
+  }
+  
+  .first .img img{
+  /* width: 800px; */
+  height: 1100px;
+  }
+  
+  .first .button a{
+  height: 400px;
+  }
+  
+  .main{
+  /* background-color: orangered; */
+  width: 1600px;
+  height: 1700px;
+  padding-left: 80px;
+  padding-top: 90px;
+  border: 80px orangered groove;
+  border-radius: 90px;
+/* padding-bottom: 90px; */
+  }
+
+  .black{
+padding-top: 80px;
+background-color: black;
+/* height: 900px; */
+height: 1000px;
+width: 100vw;
+  }
+
+  .black p {
+/* padding-top: 90px; */
+    text-align: center;
+  }
+
+  .black a ,.mom{
+    font-size: 200px;
+    /* padding-bottom: 90px; */
+  }
+
+  .black button{
+    /* padding-top: 40px; */
+    width: 600px;
+    height: 140px;
+  }
+
+/* border image */
+
+/* card */
+.nani{
+
+  height:1000px;
+  width: 9000px;
+  background-color: blue;
+  
+  
+  }
+  
+  .nani {
+  
+  height: 100vh;
+  
+  width: 100vw;
+  /* background-color: rgb(40, 18, 240); */
+  
+  background-size: cover; 
+  background-position: center; 
+  background-image: url(Space-Background-Images.jpg);
+  
+  }
+  
+  .nani .noor .picture {
+  
+    height: 1200px;
+  
+    width: 1200px;
+    background-color: rgb(32, 216, 48);
+  }
+  
+  
+  .nani .noor {
+  height: 2000px;
+  /* background-color: orangered; */
+  padding-top: 500px;
+  
+  }
+  .nani .noor .furham {
+    height: 1200px;
+  
+    width: 1200px;
+    background-color:pink;
+  
+  }
+  
+  
+  .nani .noor .sassss {
+    height: 1200px;
+  
+    width: 1200px;
+    background-color:rgb(246, 69, 98);
+  
+  }
+  
+  .nani .noor .nand {
+    height: 1200px;
+  
+    width: 1200px;
+    background-color:rgb(226, 61, 16);
+  
+  }
+  
+  .nani {
+  
+    height: 100vh;
+    
+    width: 100vw;
+    /* background-color: rgb(40, 18, 240); */
+    
+    background-size: cover; 
+    background-position: center; 
+    background-image: url(Space-Background-Images.jpg);
+    
+    }
+
+
+/* card */
+.card{
+height:1000px;
+width: 9000px;
+background-color: blue;
+}
+
+.cards {
+height: 100vh;
+width: 100vw;
+/* background-color: rgb(40, 18, 240); */
+background-size: cover; 
+background-position: center; 
+background-image: url(images.avif);
+}
+
+.cards .smand .mother {
+  height: 1200px;
+  width: 1200px;
+  background-color: rgb(32, 216, 48);
+}
+
+.cards .smand {
+height: 2000px;
+/* background-color: orangered; */
+padding-top: 500px;
+}
+
+.cards .smand .father {
+  height: 1200px;
+ width: 1200px;
+  background-color:pink;
+ /* border: 12px solid blue; */
+}
+
+.cards .smand .sister {
+  height: 1200px;
+  width: 1200px;
+  background-color:rgb(246, 69, 98);
+}
+
+.cards .smand .brother {
+  height: 1200px;
+  width: 1200px;
+  background-color:rgb(226, 61, 16);
+}
+
+.cards {
+  height: 100vh;
+  width: 100vw;
+  /* background-color: rgb(40, 18, 240); */
+  background-size: cover; 
+  background-position: center; 
+  background-image: url(images.avif);
+  }
+
+  /* gallery portion start */
+  .dadi{
+    height:1000px;
+    width: 9000px;
+    background-color: blue;
+    }
+    
+    .dadi {  
+    height: 100vh;
+    width: 100vw;
+    }
+    
+    .dadi .sad .maha {
+      height: 1200px;
+      width: 1200px;
+    }
+    
+    .dadi .sad {
+    height: 2000px;
+    padding-top: 500px;
+    }
+
+    .dadi .sad .fatima {
+      height: 1200px;
+      width: 1200px;
+      background-color:pink;
+    }
+    
+      .dadi .sad .sidra {
+      height: 1200px;
+      width: 1200px;
+      background-color:rgb(246, 69, 98);
+    }
+
+    .dadi .sad .bhai {
+      height: 1200px;    
+      width: 1200px;
+      background-color:rgb(226, 61, 16);
+    }
+    
+    .dadi {
+      height: 100vh;
+      width: 100vw;
+      /* background-color: rgb(40, 18, 240); */
+      background-color: black;
+      }
+      
+      .dadi .sad .maha {
+        height: 1200px;
+       width: 1200px;
+        background-color: rgb(32, 216, 48);
+      }
+      
+    .lorem {
+height: 100vh;
+width: 100vw;
+background-size: cover; 
+background-position: center; 
+/* background-image: url(images.avif); */
+background-image: url(Space-Background-Images.jpg);
+}
+
+.locatin{
+background-color: black;
+  height: 100vh;
+  width: 100vw;
+}
+
+
+/* location */
+.huzaifa{
+  height:1000px;
+  width: 9000px;
+  background-color: blue;
+  }
+  
+  .huzaifa {  
+  height: 100vh;
+  width: 100vw;
+  }
+  
+  .huzaifa .jani .daoud {
+    height: 1200px;
+    width: 1200px;
+  }
+  
+  .huzaifa .jani {
+  height: 2000px;
+  padding-top: 500px;
+  }
+
+  .huzaifa .jani .fiza {
+    height: 1200px;
+    width: 1200px;
+    background-color:pink;
+  }
+  
+    .huzaifa .jani .sir {
+    height: 1200px;
+    width: 1200px;
+    background-color:rgb(246, 69, 98);
+  }
+
+  .huzaifa .jani .bhaya {
+    height: 1200px;    
+    width: 1200px;
+    background-color:rgb(226, 61, 16);
+  }
+  
+  .huzaifa {
+    height: 100vh;
+    width: 100vw;
+    /* background-color: rgb(40, 18, 240); */
+    background-color: black;
+    }
+    
+    .huzaifa .jani .daoud {
+      height: 1200px;
+      width: 1200px;
+      background-color: rgb(32, 216, 48);
+    }
+
+/* constonts */
+
+.demo{
+  height:1000px;
+  width: 9000px;
+  /* background-color: blue; */
+background-size: cover; 
+background-position: center; 
+/* background-image: url(images.avif); */
+background-image: url(Space-Background-Images.jpg);
+  }
+  
+  .demo {  
+  height: 100vh;
+  width: 100vw;
+  }
+  
+  .demo .sadiq .muskan {
+    height: 1200px;
+    width: 1200px;
+  }
+  
+
+  .demo .sad {
+  height: 2000px;
+  padding-top: 500px;
+  }
+
+  .demo .sadiq .fatim {
+    height: 1200px;
+    width: 1200px;
+    /* background-color:blue; */
+  }
+  
+    .demo .sadiq .baji {
+    height: 1200px;
+    width: 1200px;
+    /* background-color:rgb(246, 69, 98); */
+  }
+
+  .demo .sadiq .nawaz {
+    height: 1200px;    
+    width: 1200px;
+    /* background-color:rgb(226, 61, 16); */
+  }
+  
+  .demo {
+    height: 100vh;
+    width: 100vw;
+    /* background-color: rgb(40, 18, 240); */
+    background-color: black;
+    }
+    
+    .demo .sadiq .muskan {
+      height: 1200px;    
+      width: 1200px;
+      /* background-color: rgb(32, 216, 48); */
+    }
+    
